@@ -4,7 +4,7 @@
 - 🔭 I’m currently working remotely at [Joyjet Space Agency][joyjet-website]!
 - 📡️ I’m currently learning everything related to the React enviroment
 - ⚡ I’m looking to collaborate with other developers and challenging react projects.
-- 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums. I can slap hands with one hand.
+- 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums. I can clap with one hand.
 
 ### 📪️ Connect with me:
 
