@@ -6,6 +6,13 @@
 - ⚡ I’m looking to collaborate with other developers and challenging react projects.
 - 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums. I can clap with one hand.
 
+### My Wakatime report 
+![Waka Readme](https://github.com/luanccp/luanccp/workflows/Waka%20Readme/badge.svg?event=schedule)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ### 📪️ Connect with me:
 
 [<img align="left" alt="Luan Castheloge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
