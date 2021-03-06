@@ -1,10 +1,10 @@
 ### Hey you! I'm Luan 👋 It's very nice have you here.
 
 ## I'm a developer, problem solver, food and travel lover.
-- 🔭 I’m currently working remotely at [Joyjet Space Agency][joyjet-website]!
+- 🔭 I’m currently working remotely at [actio][actio-website]!
 - 📡️ I’m currently learning everything related to the React enviroment
 - ⚡ I’m looking to collaborate with other developers and challenging react projects.
-- 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums. I can clap with one hand.
+- 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums.
 
 ### 📪️ Connect with me:
 
@@ -47,6 +47,8 @@
 - [https://play.google.com/store/apps/details?id=com.yogg.appyogg](https://play.google.com/store/apps/details?id=com.yogg.appyogg)
 - [https://play.google.com/store/apps/details?id=com.chronos.chronosapp](https://play.google.com/store/apps/details?id=com.chronos.chronosapp)
 - [https://www.chefsclub.com.br/claro-clube](https://www.chefsclub.com.br/claro-clube)
+- [https://joinrider.app/](https://joinrider.app/)
+- [https://woonivers.com/](https://woonivers.com/)
 
 
 ---
@@ -65,7 +67,7 @@
 <br />
 <img align="left" alt="Luan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luanccp&show_icons=true&hide_border=true" />
 
-[joyjet-website]: https://joyjet.com/
+[actio-website]: https://actio.com/
 [twitter]: https://twitter.com/luancastheloge
 [instagram]: https://instagram.com/luancastheloge
 [linkedin]: https://www.linkedin.com/in/luancastheloge/
