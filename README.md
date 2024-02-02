@@ -1,9 +1,8 @@
-### Hey you! I'm Luan 👋 It's very nice have you here.
+### Hey you! I'm Luan 👋 It's very nice to have you here.
 
-## I'm a developer, problem solver, food and travel lover.
-- 🔭 I’m currently working remotely at [actio][actio-website]!
-- 📡️ I’m currently learning everything related to the React enviroment
-- ⚡ I’m looking to collaborate with other developers and challenging react projects.
+## I'm a software engineer, problem solver, food and travel lover.
+- 📡️ I’m currently learning everything related to the **React-native** environment
+- ⚡ I want to collaborate with other developers and challenging react projects.
 - 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums.
 
 ### 📪️ Connect with me:
@@ -19,7 +18,6 @@
 
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -49,6 +47,8 @@
 - [https://www.chefsclub.com.br/claro-clube](https://www.chefsclub.com.br/claro-clube)
 - [https://joinrider.app/](https://joinrider.app/)
 - [https://woonivers.com/](https://woonivers.com/)
+- [https://www.actio.com/](https://www.linkedin.com/company/actiodaily/)
+- [https://nash.io/en/](https://nash.io/en/)
 
 
 ---
@@ -67,7 +67,6 @@
 <br />
 <img align="left" alt="Luan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luanccp&show_icons=true&hide_border=true" />
 
-[actio-website]: https://actio.com/
 [twitter]: https://twitter.com/luancastheloge
 [instagram]: https://instagram.com/luancastheloge
 [linkedin]: https://www.linkedin.com/in/luancastheloge/
