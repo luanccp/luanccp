@@ -1,16 +1,16 @@
 ### Hey you! I'm Luan 👋 It's very nice to have you here.
 
-## I'm a software engineer, problem solver, food and travel lover.
+## I'm a Senior software engineer, problem solver, food and travel lover.
 - 📡️ I’m currently learning everything related to the **React-native** environment
 - ⚡ I want to collaborate with other developers and challenging react projects.
 - 🤣 Fun fact: I already had a rock band playing guitar, but I love to play drums.
 
 ### 📪️ Connect with me:
 
-[<img align="left" alt="Luan Castheloge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Luan Castheloge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Luan Castheloge | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Luan Castheloge | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Luan Castheloge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/luancastheloge)
+[<img align="left" alt="Luan Castheloge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/luancastheloge/)
+[<img align="left" alt="Luan Castheloge | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luancastheloge)
+[<img align="left" alt="Luan Castheloge | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@luanccp)
 
 <br />
 
@@ -64,8 +64,3 @@
 [Angular](https://cursos.alura.com.br/certificate/0a1e30c9-0900-455e-98b1-6de6cc7e48c2)
 
 ---
-<br />
-[twitter]: https://twitter.com/luancastheloge
-[instagram]: https://instagram.com/luancastheloge
-[linkedin]: https://www.linkedin.com/in/luancastheloge/
-[medium]: https://medium.com/@luanccp
